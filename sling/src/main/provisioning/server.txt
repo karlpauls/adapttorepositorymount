@@ -1,0 +1,8 @@
+[feature name=adaptto]
+
+[artifacts]
+    org.apache.sling/org.apache.sling.starter/11/slingstart
+    com.dropbox.core/dropbox-core-sdk/3.1.1
+    org.apache.sling/org.apache.sling.adaptto.repositorymount.dropbox/0.0.1-SNAPSHOT
+    org.apache.sling/org.apache.sling.jcr.base/3.1.1-adaptto-repositorymount
+
